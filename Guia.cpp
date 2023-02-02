@@ -67,11 +67,3 @@ Tambien cuando nos refiramos a la estructura podemos hacer lo siguiente
 struct alumno alum          --- declaramos la variable alum de tipo estruct alumno
 
 */
-
-
-
-
-
-
-
-
